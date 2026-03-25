@@ -1,0 +1,15 @@
+flask>=2.0.0
+pyttsx3>=2.90
+pyautogui>=0.9.50
+SpeechRecognition>=3.8.1
+pywhatkit>=5.4
+requests>=2.25.0
+psutil>=5.9.0
+openai
+python-dotenv
+google-generativeai
+PyPDF2
+python-pptx
+python-docx
+openpyxl
+beautifulsoup4
